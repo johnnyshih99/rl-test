@@ -1,3 +1,5 @@
+2 simple coding challenges. below are the questions.
+
 # rl-test
 ### A feature in software you are building requires the ability to take an arbitrary list of numbers greater than 0, and print their sum.
 a. Implement this function.  
